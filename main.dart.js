@@ -69137,7 +69137,7 @@ G(a,b){var s,r,q,p,o,n,m,l,k=null,j={}
 j.a=j.b=j.c=j.d=j.e=j.f=j.r=j.w=j.x=j.y=j.z=j.Q=j.as=j.at=j.ax=j.ay=j.ch=null
 s=A.Q(255,242,255,0)
 r=b.O(t.w).f
-q=A.c([new A.ib("https://cdn.discordapp.com/attachments/892491060352266240/945494444084453396/D4.png","D4",k),new A.ib("https://media.discordapp.net/attachments/892491060352266240/945494444289966160/D6.png","D6",k),new A.ib("https://media.discordapp.net/attachments/892491060352266240/945494444541616158/D8.png","D8",k),new A.ib("https://media.discordapp.net/attachments/892491060352266240/945494444814270564/D10.png","D10",k),new A.ib("https://media.discordapp.net/attachments/892491060352266240/945494445216890880/D12.png","D12",k),new A.ib("https://media.discordapp.net/attachments/892491060352266240/945494423410733077/D20.png","D20",k),new A.ib("https://media.discordapp.net/attachments/927896221249568788/980509771641798656/D100.png","D100",k)],t.t)
+q=A.c([new A.ib("https://i.imgur.com/y9dIfe7.png","D4",k),new A.ib("https://i.imgur.com/Q29vx1C.png","D6",k),new A.ib("https://i.imgur.com/cFzeqVW.png","D8",k),new A.ib("https://i.imgur.com/FDiW17z.png","D10",k),new A.ib("https://i.imgur.com/q5xuBRA.png","D12",k),new A.ib("https://i.imgur.com/lbSqgV9.png","D20",k),new A.ib("https://i.imgur.com/RVu0Yfx.png","D100",k)],t.t)
 p=A.akZ(b,t.K9)
 o=p.a
 n=$.ay
